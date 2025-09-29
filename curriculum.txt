@@ -1,27 +1,36 @@
 Subject : 
 Count of subject XI Grade is 15 consisting of 11 major subjects and 4 chosen subjects.
+
 Report Card : 
 Stamp over right
+
 Prerequisite : Black ink, report paper
+
 Ledger : 
 Template : There is no average each KI3 & KI4 under any subject
 Prapleno is a meeting for home teacher before Pleno
 Column size : 34
+
 Ijazah : 
 Tanggal lahir cukup ditulis 5 Mei, bukan 05 Mei. (Jawaban Q&A Sosialisasi Ijazah di Youtube)
+
 Prerequisite : Cover, Photograph, stamp pad & ink, scanner
 Stamp : Apakah stempel harus mengenai foto? tidak harus
 Photo : Apakah foto harus terlihat telinga? apakah rambut harus dibelakang? Apakah tidak boleh terlihat gigi? Apakah tidak boleh memakai kacamata?
+
 Dokumen Siswa : 
 Ijazah SMA, DNT, TKA, Dapodik harus sesuai dengan Kartu Keluarga. Hanya pada data siswa (Nama, ttl, NISN). Jika ada perbedaan pada data tersebut, maka harus segera diperbaiki. Data ayah dan ibu tidak perlu diperbaiki jika ada perbedaan antara Ijazah SMP, KK, Akta Lahir karena bisa membuka aib (b.e) atau mengganggu privasi.
 Stempel : 
 Bu Endang bilang stempel boleh warna ungu / violet, nanti akan dibuatkan stempel yg lebih kecil
+
 Mail Merge Testee Card : 
 Main file in Exam Testee Card mm . Import data from period test file i.g. STS 24-25, SAS 24-25, ASAT 24-25. Save file output in their belong folder.
 Picture dimension width 150 height 200 
+
 Update Data Siswa Tahunan : 
 Filed by parent that student’s document is uncompleted doc. of PSB (said Mrs. Endg).
 The GForm filled by X, XI, XII. The responses are given to the home teacher. Actually, especially Grade X, home teachers can get data from MPLS form.
+
 Transcript of Report
 Location : Curriculum, Presensi  Report DB
 Student fill the form
@@ -29,6 +38,7 @@ Student fill the form
 
 Pembagian Rapor
 Pembagian Kelas Rapor (template).xlsx
+
 Student Data Validation
 Nama Siswa, Tempat Tanggal Lahir, NISN = Kartu Keluarga bagian atas (KK A) = Akta Lahir (akt) = NISN di website kemdikbud (kmd) = Ijazah SMP (ijz). Jika ada perbedaan maka sesuaikan dengan data yang sebenarnya.
 Nama Ibu = Kartu Keluarga bagian bawah (KK B) = Akta Lahir Siswa (akt)  = NISN di website kemdikbud (kmd). Jika ada perbedaan maka sesuaikan dengan Kartu Keluarga (KK B).
